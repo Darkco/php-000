@@ -16,7 +16,7 @@
             });
         });
 </script>
-<title>Campaign Setup</title>
+<title>Image File Search</title>
  <style>
  div,input {margin:0; padding:0;}
  </style>
